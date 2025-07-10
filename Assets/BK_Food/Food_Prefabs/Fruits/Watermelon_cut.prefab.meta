@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b4feb4563eeccdb4f96a3f155a6e265a
+timeCreated: 1466048513
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55272
+  packageName: HD Fruits & Vegetables
+  packageVersion: 1.0
+  assetPath: Assets/BK_Food/Food_Prefabs/Fruits/Watermelon_cut.prefab
+  uploadId: 123055
