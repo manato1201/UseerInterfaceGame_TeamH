@@ -6,7 +6,7 @@ public class Player : MonoBehaviour
     [SerializeField] private float moveSpeed = 5f;
     [SerializeField] private float jumpForce = 5000f;
     [SerializeField] private Transform playerBody;
-    private float mouseSensitivity = 100f;
+    private float mouseSensitivity = 1200f;
     public bool mouseReverse = false;
     private Rigidbody rb;
     private Vector3 moveInput;
