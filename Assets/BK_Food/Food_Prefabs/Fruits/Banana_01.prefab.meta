@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bb1804f4134f5ba4a8fb76e3805cece8
+timeCreated: 1466048660
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55272
+  packageName: HD Fruits & Vegetables
+  packageVersion: 1.0
+  assetPath: Assets/BK_Food/Food_Prefabs/Fruits/Banana_01.prefab
+  uploadId: 123055

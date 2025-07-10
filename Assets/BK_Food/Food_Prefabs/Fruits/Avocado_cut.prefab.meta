@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 12049bae6fc554445b8777d58e9f8b22
+timeCreated: 1466048661
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55272
+  packageName: HD Fruits & Vegetables
+  packageVersion: 1.0
+  assetPath: Assets/BK_Food/Food_Prefabs/Fruits/Avocado_cut.prefab
+  uploadId: 123055

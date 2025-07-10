@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b4476c88cc33bb54b9d9a705603bc861
+timeCreated: 1466048519
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 55272
+  packageName: HD Fruits & Vegetables
+  packageVersion: 1.0
+  assetPath: Assets/BK_Food/Food_Prefabs/Fruits/Pineapple_cut.prefab
+  uploadId: 123055
